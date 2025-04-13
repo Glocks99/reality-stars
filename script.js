@@ -22,7 +22,7 @@ window.addEventListener("DOMContentLoaded", () => {
 
     let properties = [
         {
-            image: "/assets/houses/h1.jpg",
+            image: "./assets/houses/h1.jpg",
             location: {
                 place: "Accra, Legon",
                 feel: "Luxury"
@@ -30,7 +30,7 @@ window.addEventListener("DOMContentLoaded", () => {
             category: "residential"
         },
         {
-            image: "/assets/houses/h2.jpg",
+            image: "./assets/houses/h2.jpg",
             location: {
                 place: "Accra, Legon",
                 feel: "Luxury"
@@ -38,7 +38,7 @@ window.addEventListener("DOMContentLoaded", () => {
             category: "residential"
         },
         {
-            image: "/assets/houses/h3.jpg",
+            image: "./assets/houses/h3.jpg",
             location: {
                 place: "Accra, Legon",
                 feel: "Luxury"
@@ -46,7 +46,7 @@ window.addEventListener("DOMContentLoaded", () => {
             category: "commercial"
         },
         {
-            image: "/assets/houses/h4.jpg",
+            image: "./assets/houses/h4.jpg",
             location: {
                 place: "Accra, Legon",
                 feel: "Luxury"
@@ -54,7 +54,7 @@ window.addEventListener("DOMContentLoaded", () => {
             category: "residential"
         },
         {
-            image: "/assets/houses/h5.jpg",
+            image: "./assets/houses/h5.jpg",
             location: {
                 place: "Accra, Legon",
                 feel: "Luxury"
@@ -62,7 +62,7 @@ window.addEventListener("DOMContentLoaded", () => {
             category: "residential"
         },
         {
-            image: "/assets/houses/h6.jpg",
+            image: "./assets/houses/h6.jpg",
             location: {
                 place: "Accra, Legon",
                 feel: "Luxury"
@@ -70,7 +70,7 @@ window.addEventListener("DOMContentLoaded", () => {
             category: "commercial"
         },
         {
-            image: "/assets/houses/h7.jpg",
+            image: "./assets/houses/h7.jpg",
             location: {
                 place: "Accra, Legon",
                 feel: "Luxury"
@@ -78,7 +78,7 @@ window.addEventListener("DOMContentLoaded", () => {
             category: "residential"
         },
         {
-            image: "/assets/houses/h8.jpg",
+            image: "./assets/houses/h8.jpg",
             location: {
                 place: "Accra, Legon",
                 feel: "Luxury"
@@ -86,7 +86,7 @@ window.addEventListener("DOMContentLoaded", () => {
             category: "residential"
         },
         {
-            image: "/assets/houses/h9.jpg",
+            image: "./assets/houses/h9.jpg",
             location: {
                 place: "Accra, Legon",
                 feel: "Luxury"
@@ -94,7 +94,7 @@ window.addEventListener("DOMContentLoaded", () => {
             category: "residential"
         },
         {
-            image: "/assets/houses/h10.jpg",
+            image: "./assets/houses/h10.jpg",
             location: {
                 place: "Accra, Legon",
                 feel: "Luxury"
@@ -102,7 +102,7 @@ window.addEventListener("DOMContentLoaded", () => {
             category: "commercial"
         },
         {
-            image: "/assets/houses/h11.jpg",
+            image: "./assets/houses/h11.jpg",
             location: {
                 place: "Accra, Legon",
                 feel: "Luxury"
@@ -110,7 +110,7 @@ window.addEventListener("DOMContentLoaded", () => {
             category: "residential"
         },
         {
-            image: "/assets/houses/h12.jpg",
+            image: "./assets/houses/h12.jpg",
             location: {
                 place: "Accra, Legon",
                 feel: "Luxury"
@@ -118,7 +118,7 @@ window.addEventListener("DOMContentLoaded", () => {
             category: "commercial"
         },
         {
-            image: "/assets/houses/h13.jpg",
+            image: "./assets/houses/h13.jpg",
             location: {
                 place: "Accra, Legon",
                 feel: "Luxury"
@@ -126,7 +126,7 @@ window.addEventListener("DOMContentLoaded", () => {
             category: "residential"
         },
         {
-            image: "/assets/houses/h14.jpg",
+            image: "./assets/houses/h14.jpg",
             location: {
                 place: "Accra, Legon",
                 feel: "Luxury"
@@ -134,7 +134,7 @@ window.addEventListener("DOMContentLoaded", () => {
             category: "residential"
         },
         {
-            image: "/assets/houses/h15.jpg",
+            image: "./assets/houses/h15.jpg",
             location: {
                 place: "Accra, Legon",
                 feel: "Luxury"
